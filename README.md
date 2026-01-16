@@ -1,4 +1,4 @@
-# UrbanNest-PowerBI
+# Homestyle-PowerBI
 
 ## Executive Dashboard
 
@@ -7,7 +7,8 @@
 3. How have **sales and profit trended year-over-year** from 2022 to 2024?
 4. Which **regions** are driving the highest overall **sales performance**?
 
-[https://github.com/ApoorvaIyerKcl/UrbanNest-PowerBI/blob/main/Dashboard%20Images/Executive.png]
+
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Executive.png)
 
 ## Customers Dashboard
 
@@ -16,6 +17,7 @@
 3. Which **loyalty tier** contributes the most to **net sales**?
 4. Which **cities generate the highest customer-driven sales**?
 
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Customers.png)
 
 ## Sales Dashboard
 
@@ -24,6 +26,7 @@
 3. How has **net sales grown year-over-year** across the business?
 4. Which **product categories** contribute the most to **net sales**?
 
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Sales.png)
 
 ## Products Dashboard
 
@@ -32,12 +35,13 @@
 3. Which **sub-categories** drive the highest **net sales and profit**?
 4. Which **products generate the highest profit** for the business?
 
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Products.png)
+
 ## Operations & Payments Dashboard
-
-[https://github.com/ApoorvaIyerKcl/UrbanNest-PowerBI/blob/main/Dashboard%20Images/Operations.png]
-
 1. Which **payment methods** are most frequently used by customers?
 2. How many orders are driven by **promotions vs no promotions**?
 3. How are **financed sales split by financing provider**?
 4. What is the overall **delivery performance** in terms of early, on-time, and late deliveries?
+
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Operations.png)
 
