@@ -58,7 +58,7 @@ As HomeStyle expanded its product range and regional footprint, decision-making 
 3. Which **sub-categories** drive the highest **net sales and profit**?
 4. Which **products generate the highest profit** for the business?
 
-![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/main/Dashboard%20Images/Products.png)
+![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/a2cd7b08d1d9d3316f4b96731740c18e046a7cb7/Dashboard%20Images/Products.png)
 
 ### Operations & Payments Dashboard
 1. Which **payment methods** are most frequently used by customers?
