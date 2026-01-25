@@ -9,6 +9,11 @@ HomeStyle is a multi-category **home decor and home utility retailer** operating
 
 As HomeStyle expanded its product range and regional footprint, decision-making became fragmented across teams. Leadership lacked a consolidated view of **net sales, profit margins, customer repeat behavior, promotion impact, and delivery performance**. Questions around **which cities, store types, customer segments, and product categories drive sustainable profit** remained unanswered. This project addresses the need for a **centralized analytics layer** to transform raw transactional data into **actionable business insights**.
 
+## Tools & Skills Used
+* Power BI: Data modeling, DAX, KPIs, visuals, bookmarks, navigation
+* Power Query (ETL): Data cleaning and transformations
+* DAX Studio: Performance tuning and query optimization
+* Data Storytelling: Turning dashboards into actionable insights## Dashboard Insights
 
 ## Dataset Overview
 * **Customers**: 4,800 rows × 6 columns
@@ -19,12 +24,6 @@ As HomeStyle expanded its product range and regional footprint, decision-making 
 * **Total Dataset Size**: **16,773 rows × 66 columns**
 
 ![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/36874212531048c291eb5eeaa09b077dfede6ffc/Dashboard%20Images/Dataset%20Table.png)
-
-## Tools & Skills Used
-* Power BI: Data modeling, DAX, KPIs, visuals, bookmarks, navigation
-* Power Query (ETL): Data cleaning and transformations
-* DAX Studio: Performance tuning and query optimization
-* Data Storytelling: Turning dashboards into actionable insights## Dashboard Insights
 
 ### Executive Dashboard
 
